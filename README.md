@@ -1,1 +1,1 @@
-# This repository contains all my of practice codes. 
+# This repository contains all of my practice codes. 
